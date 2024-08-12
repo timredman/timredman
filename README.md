@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timredman
 - 👀 I’m interested in PHP, React and building web apps
-- 🌱 I’m currently learning es6, react, laravel, symfony
+- 🌱 I’m currently learning es6, react, laravel
 - 📫 How to reach me @timredman on twitter and www.timredman.co.uk
 
 <!---
